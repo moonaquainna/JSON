@@ -4,4 +4,12 @@ bug report
   "description": "what where when"
   "steps":"step to reproduce"
   "actual result": "step_1"
-  "expected result":"step"}
+  "expected result":"step"   
+  "comments": "extra"
+  "video": "video"
+   "1": "2"
+
+
+
+
+}
